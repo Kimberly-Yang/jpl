@@ -1,1 +1,7 @@
-Excluding articles deemed "letters" such as News and Views published in Nature journal.
+Excluding articles pubtype "letters" such as News and Views published in Nature journal.
+Kept "Notes" pubtypes because actual articls appear. However, some comments, intro/prefaces will be weeded after export.
+In EndNote will delete: 
+1. GAVRT: Learning science by doing science
+2. An introduction to the special issue on Geoscience Papers of the Future
+
+If we do not include the "Notes" and "Letters" published in high impact factor journals, then it will throw off the benchmarking curve.
