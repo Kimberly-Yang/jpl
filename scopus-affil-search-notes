@@ -1,7 +1,8 @@
-Excluding articles pubtype "letters" such as News and Views published in Nature journal.
-Kept "Notes" pubtypes because actual articls appear. However, some comments, intro/prefaces will be weeded after export.
-In EndNote will delete: 
-1. GAVRT: Learning science by doing science
-2. An introduction to the special issue on Geoscience Papers of the Future
+Scopus JPL Search by AF-ID 60009037 
 
-If we do not include the "Notes" and "Letters" published in high impact factor journals, then it will throw off the benchmarking curve.
+If we do NOT include the "Notes" and "Letters" published in high impact factor journals (Eg, Nature, Science), then it will throw off the benchmarking curve. 
+Since we ARE including items that are NOT peer reviewed, keep pubtype "Letters" and "Notes" such as News and Views published in Nature journal.
+
+AFTER Export from Scopus, in EndNote REMOVE items whose titles or other clear indicatione they are Intro, Preface, or Editorial Letter. 
+
+
