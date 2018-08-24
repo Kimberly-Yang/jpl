@@ -1,5 +1,8 @@
 Scopus JPL Search by AF-ID 60009037 
 
+2018 Aug 24
+(AF-ID (60009037) AND PUBYEAR IS 2016)) AND NOT (DOCTYPE(er) OR DOCTYPE(ed)) = 2,122 results
+
 If we do NOT include the "Notes" and "Letters" published in high impact factor journals (Eg, Nature, Science), then it will throw off the benchmarking curve. 
 Since we ARE including items that are NOT peer reviewed, keep pubtype "Letters" and "Notes" such as News and Views published in Nature journal.
 EXCLUDE Errata
