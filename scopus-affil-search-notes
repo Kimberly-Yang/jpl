@@ -1,4 +1,4 @@
-Scopus JPL Search by AF-ID 60009037 
+Scopus JPL 2016 Search by AF-ID 60009037 
 
 2018 Aug 24
 (AF-ID (60009037) AND PUBYEAR IS 2016)) AND NOT (DOCTYPE(er) OR DOCTYPE(ed)) = 2,122 results
@@ -9,5 +9,6 @@ EXCLUDE Errata
 EXCLUDE Editorial
 In EndNote (AFTER importing Scopus export file) REMOVE items whose titles or other text indicate they are Intro, Preface, or Editorial). 
 
+Why so many duplicates for this year within Scopus itself?  Double entries in Scopus database itself. Same paper, one with DOI and one without DOI. Same paper, different conf codes
 
 
