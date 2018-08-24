@@ -2,7 +2,9 @@ Scopus JPL Search by AF-ID 60009037
 
 If we do NOT include the "Notes" and "Letters" published in high impact factor journals (Eg, Nature, Science), then it will throw off the benchmarking curve. 
 Since we ARE including items that are NOT peer reviewed, keep pubtype "Letters" and "Notes" such as News and Views published in Nature journal.
+EXCLUDE Errata
+EXCLUDE Editorial
+In EndNote (AFTER importing Scopus export file) REMOVE items whose titles or other text indicate they are Intro, Preface, or Editorial). 
 
-AFTER Export from Scopus, in EndNote REMOVE items whose titles or other clear indicatione they are Intro, Preface, or Editorial Letter. 
 
 
