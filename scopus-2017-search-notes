@@ -4,3 +4,4 @@ AF-ID("Jet Propulsion Laboratory California Institute of Technology" 60009037) A
 yields 2000 results exactly
 Import results in 1984 references in JPL-2017 with 16 refs auto-deduped into JPL-Library-Dupl.enl
 
+AllDBs search OG=(Jet Propulsion Laboratory) AND PY=2017 yields 7 results = datasets = imported into JPL-Dupl.enl
