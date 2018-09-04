@@ -1,5 +1,10 @@
+
+2018-09-04
+2017 JPL checked for entire book by same author(s) versus book sections by different authors with editor = null
+2016 JPL checked for entire book by same author(s) versus book sections by different authors with editor = null
+
 2018-08-28  
-EndNote jpl-2017 deduplication stop at Cyclone-induced surface ozone and HDO depletion in the Arctic
+Finished dedupe
 
 Search Scopus
 AF-ID("Jet Propulsion Laboratory California Institute of Technology" 60009037) AND (PUBYEAR = 2017) AND NOT (DOCTYPE(er) OR DOCTYPE(ed))
