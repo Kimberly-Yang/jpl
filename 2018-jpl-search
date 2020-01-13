@@ -1,4 +1,11 @@
-2018 retrieved 2002 results
+2018 WOS retrieved 2002 results 
 OG=(NASA Jet Propulsion Laboratory (JPL)) OR OO=("JET PROPULSION LABORATORY" OR "JET PROP LAB" OR "CAL TECH JET PROP LAB" OR "CALTECH JET PROPULSION LAB" OR "CALTECHS JET PROP LAB" OR "FDC JPL" OR "GEOPHYS JET PROPULS LAB" OR "JET PROP LAB" OR "JET PROP LAB 300 323 " OR "JET PROP LAB 301 150" OR "JET PROP LAB 320 231" OR "JET PROP LAB 506 316" OR "JET PROP LAB CALTECH" OR "JET PROP LAB CPB 206C" OR "JET PROP LAB LIB" OR "JET PROP LAB MS 300 323" OR "JET PROP LAB NASA JPL" OR "JET PROP LAB PASADENA" OR "JET PROP LABS" OR "JET PROPUL LAB" OR "JET PROPULS LAB" OR "JET PROPULS LAB 301 150" OR "JET PROPULSION LAB" OR "JET PROPULSON LAB" OR "JPL" OR "JPL MICROWAVE" OR "JPL NASA" OR "JPL TABLE MT FACIL" OR "MARS SCI LAB MISSION JET PROP LAB" OR "MS 183 900 JET PROP LAB" OR "NASA JET PROP LAB" OR "NASA JET PROPULS LAB" OR "NASA JPL" OR "NASAS JET PROPULS LAB" OR "SKILLSTORM JET PROP LAB" OR "TELOS JET PROP LAB" OR "TELOS JPL")
 Refined by: [excluding] DOCUMENT TYPES: ( CORRECTION )
 Timespan: 2018. Indexes: SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC. 
+Imported 233 references from wos-2018-jpl-1-to-500-of-2002-results.ciw and autodeduped 267 into 2018-JPL-Library-Dupl.enl 
+Imported 220 references from wos-2018-jpl-501-to-1000-of-2002-results.ciw and autodeduped 280 into 2018-JPL-Library-Dupl.enl 
+Imported 160 references from wos-2018-jpl-1001-to-1500-of-2002-results.ciw and autodeduped 340 into 2018-JPL-Library-Dupl.enl 
+Imported 182 references from wos-2018-jpl-1501-to-2000-of-2002-results.ciw and autodeduped 318 into 2018-JPL-Library-Dupl.enl 
+Imported 0 references from wos-2018-jpl-2001-to-2002-of-2002-results.ciw and autodeduped 2 into 2018-JPL-Library-Dupl.enl 
+
+2018 Scopus retrieved 2165 results aggregated (= 562 OA + 1603 non-OA) results 562 OA of which 2 were dupes in and results 1603 non-OA of Which 34 were dupes. Auto-dedupe process placed them in 2018-JPL-Library-Dupl.enl file 
